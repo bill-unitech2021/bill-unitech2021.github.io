@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : 
 twitter:
   username               : 
 facebook:
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
-  avatar           : "profile.png"
-  bio              : "Data Scientist"
+  name             : "Jiahong Que"
+  avatar           : "headimg_for_LinkedIn_2 copy.jpg"
+  bio              : "Advanced Data Analyst"
   location         :
   employer         :
   pubmed           :
