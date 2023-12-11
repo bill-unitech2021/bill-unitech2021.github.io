@@ -14,7 +14,7 @@ researcher with the [Digital Testbed Air Cargo](https://www.digital-testbed-air-
 and a PhD student at [Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/).
 
 
-<!--
+
 I earned my Ph.D in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
 B.A. in Political Science from [Haverford College](https://www.haverford.edu).
@@ -29,4 +29,3 @@ including terrorism and economic statecraft, and develops new measures of
 institutions in international relations. I have [teaching](teaching) experience
 in both quantitative methodology and international relations, and am a certified
 instructor with [The Carpentries](https://carpentries.org).
--->
