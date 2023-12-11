@@ -19,16 +19,6 @@ I earned my MSc in Computer Science from the
 [University *of* Electronic Science and Technology of China *at* Chengdu](https://en.uestc.edu.cn/) and my
 BSc in Communication Engineering from [Chengdu University of Infomation Technology](https://www.cuit.edu.cn/).
 
+I was 
 
 
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
