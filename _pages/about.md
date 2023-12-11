@@ -15,9 +15,12 @@ and a PhD student at [Frankfurt University of Applied Sciences](https://www.fran
 
 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
+I earned my MSc in Computer Science from the
+[University *of* Electronic Science and Technology of China *at* Chengdu](https://en.uestc.edu.cn/) and my
+BSc in Communication Engineering from [Chengdu University of Infomation Technology](https://www.cuit.edu.cn/).
+
+
+
 My academic work has been [published](publications) or is forthcoming in
 *International Studies Quarterly*, *Conflict Management and Peace Science*,
 *Political Science Research and Methods*, and *PS: Political Science & Politics*,
